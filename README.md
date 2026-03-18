@@ -1,2 +1,2 @@
 # SMAD
-smoothing model for axial data based on Dümbgen&Haslebacher (2025. Statistica Neerlandica)
+Smoothing Model for Axial Data based on Dümbgen&Haslebacher (2025. Statistica Neerlandica). Used in Haslebacher et al. (2026).
